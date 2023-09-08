@@ -1,0 +1,315 @@
+body{
+    margin: 0px !important;
+    padding: 0px !important;
+}
+.banner {
+    background-image: linear-gradient(
+        hsla(240, 16%, 4%, 0.547),
+        rgba(43, 41, 41, 0.932)
+      ),
+      url(../Images/team2.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 70vh;
+    
+  }
+  .header{
+    padding: 0px !important;
+    margin: 0px !important;
+  }
+  .navbar-brand{
+    font-size: 30px !important;
+    color:white !important;
+    margin-right: 150px !important;
+
+  }
+  .nav-txt{
+    color: #fe5444;
+  }
+  .nav-link{
+    color:white !important;
+    font-weight: 500 !important;
+    margin-right: 10px !important;
+
+  }
+  .btn-nav{
+    background-color:#fe5444 ;
+    color:white !important;
+    border: none;
+    padding: 7px;
+    width: 170px;
+    font-weight: 500 !important;
+  }
+  .title{
+    color:white !important;
+  }
+  .header-nav{
+    margin-left: 330px;
+    margin-right: 10px !important;
+  }
+  .bi-arrow-right{
+    color:white !important;
+    font-size: 20px;
+    margin-left: 10px;
+  }
+  .btn-header{
+    background-color:#fe5444 ;
+    color:white !important;
+    border: none;
+    padding: 7px;
+    width: 170px;
+    font-weight: 500 !important;
+    border-radius: 30px;
+    margin-right: 20px;
+  }
+  .h-text{
+    font-size: 20px;
+  }
+  .home-about{
+    position: relative;
+    margin-left: 120px;
+  }
+  .home-about-sub{
+    position: relative;
+  }
+  .hm-1{
+    position: absolute;
+    background-color: #fe5444;
+    height: 300px;
+    width: 300px;
+    border-radius: 5px;
+
+
+  }
+  .hm-2{
+    position: absolute;
+    height: 400px;
+    width: 400px;
+    top: -20px;
+    left: -30px;
+  }
+  .hm-img{
+    height: 300px;
+    width: 300px;
+    border-radius: 5px;
+  }
+  .hm-about{
+    color: #fe5444;
+    font-size: 20px;
+  }
+  .hm-title{
+    color: #052d61 !important;
+  }
+  .home-service{
+    background-color: #f0efef;
+    padding-top: 30px;
+    /* padding-bottom: 300px !important; */
+    margin: 0px !important;
+    padding: 0px !important;
+    /* padding-bottom: 0px !important; */
+    /* height: 500px; */
+  }
+  .hm-service-sub{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+  }
+  .home-about-main{
+    padding-bottom: 30px;
+    padding-top: 30px;
+
+  }
+  .home-main{
+    padding-bottom: 50px !important;
+    padding-top: 30px;
+  }
+  .icons{
+    font-size: 40px;
+    color: #fe5444;
+  }
+  .btn-card{
+    background-color: #fe5444 !important;
+    color: white !important;
+    border-radius: 20px !important;
+    width: 120px;
+  }
+  .card{
+    border: none !important;
+    border-top: 8px solid #052d61 !important;
+    border-bottom: 8px solid #052d61 !important;
+  }
+  .hm-2service{
+    position: absolute;
+    height: 400px;
+    width: 400px;
+    left: 30px;
+  }
+  .hm-1service{
+    position: absolute;
+    background-color: #fe5444;
+    height: 300px;
+    width: 300px;
+    border-radius: 5px;
+    top: 20px;
+
+}
+.p-images{
+    width: 367px;
+    height: 300px;
+    /* margin-bottom: 30px; */
+}
+.card-img-top{
+  height: 227px;
+  border-radius: 0px !important;
+
+}
+.card-team{
+  border-top: none !important;
+  border-bottom: none !important;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 0px !important;
+}
+.teams{
+  margin-left: 500px;
+}
+.team-txt{
+  color: #052d61;
+  margin-bottom: 0px !important;
+}
+.team-txt-sub{
+  color: #5c5656 !important;
+}
+.bi-star-fill{
+  color: #fe5444;
+}
+
+.card-test{
+  border-top: 0px !important;
+  border-bottom: 0px !important;
+  border-radius: 0px !important;
+  position: absolute;
+}
+.person{
+  background-color: #4482ed;
+  margin-right: 10px;
+  border-radius:30px ;
+  height: 30px;
+  width: 30px;
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+
+}
+.bi-person-fill{
+  color: white;
+}
+
+.person2{
+  background-color: #e43626;
+  margin-right: 10px;
+  border-radius:30px ;
+  height: 30px;
+  width: 30px;
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+
+}
+.person3{
+  background-color: #ffb75a;
+  margin-right: 10px;
+  border-radius:30px ;
+  height: 30px;
+  width: 30px;
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+
+}
+.card-test-main{
+  position: relative;
+}
+.card-test-sub{
+  position: relative;
+  height: 50px;
+  width: 50px;
+  border-radius: 30px;
+  background-color: #e43626;
+  left: 310px;
+  top: -250px;
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+}
+.bi-quote{
+  color: white;
+  font-size: 30px;
+}
+.book{
+  background-color: #052d61;
+  padding: 30px;
+}
+.bookings{
+  color: white;
+}
+li{
+  list-style: none;
+  margin-bottom: 3px;
+
+}
+.r-list{
+  text-decoration: none !important;
+  color: #525151 !important;
+  font-weight: 500;
+
+
+}
+ul{
+  margin-left: 0px;
+}
+.r-1{
+  margin-left: 32px;
+  font-weight: 600;
+}
+.copy{
+  text-align: center;
+}
+.view{
+  text-align: center;
+}
+.About{
+  padding-top: 30px !important;
+}
+.contact-img{
+  width: 400px;
+  height: 350px;
+  border-radius: 3px;
+}
+.contact{
+  background-color: #fcfcfc;
+  padding-top:30px;
+  padding-bottom:30px;
+}
+.cont{
+  box-shadow:3px 3px 8px #e43626;
+  padding: 40px; 
+  background-color: #ffffff;
+  border-radius: 7px;
+}
+.btn-contact{
+  width: 100%;
+  padding: 7px;
+  border-radius: 20px;
+  background-color: #e43626;
+  border: none;
+  color:#ffffff ;
+}
+.form-label{
+  font-weight: 500;
+  color: #525151;
+}
